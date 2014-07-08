@@ -44,7 +44,7 @@ static const int GRID_COlUMNS   = 10;
             Creature *creature = [[Creature alloc] initCreature];
             creature.anchorPoint = ccp(0,0);
             creature.position = ccp(x,y);
-            [self addCHild:creature];
+         //   [self addCHild:creature];
             
             _gridArray[i][j] = creature;
             
