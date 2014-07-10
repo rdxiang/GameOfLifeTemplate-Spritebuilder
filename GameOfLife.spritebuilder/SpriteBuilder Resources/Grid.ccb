@@ -51,7 +51,7 @@
 				<key>displayName</key>
 				<string>grid</string>
 				<key>memberVarAssignmentName</key>
-				<string>_grid</string>
+				<string></string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -71,8 +71,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>135</real>
-							<real>47</real>
+							<real>0.0</real>
+							<real>0.0</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
