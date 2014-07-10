@@ -18,7 +18,7 @@ static const int GRID_COlUMNS   = 10;
     float _cellHeight;
 }
 - (void) blah {
-    NSLog(@"H")
+    NSLog(@"H");
 }
 -(void)onEnter{
     [super onEnter];
