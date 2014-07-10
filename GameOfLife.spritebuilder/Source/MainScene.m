@@ -39,6 +39,7 @@
 - (void)step
 {
    // [_grid blah];
+    NSLog(_grid);
     _generationLabel.string = [NSString stringWithFormat:@"%d", _grid.generation];
     _populationLabel.string = [NSString stringWithFormat:@"%d", _grid.totalAlive];
     
