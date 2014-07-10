@@ -73,7 +73,7 @@ static const int GRID_COlUMNS   = 10;
     return _gridArray[row][col];
 }
 
-- (void) evolveStep{
+- (void) evolveStep {
     
 //    [self countNeighbors];
 //    [self updateCreatures];
