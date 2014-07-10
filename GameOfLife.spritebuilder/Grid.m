@@ -126,6 +126,7 @@ static const int GRID_COlUMNS   = 10;
             else if (current.livingNeighbors <= 1 || current.livingNeighbors >= 4)
                 current.isAlive = NO;
         }
+    }
 
 }
 
